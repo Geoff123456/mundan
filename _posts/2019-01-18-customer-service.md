@@ -1,10 +1,8 @@
 ---
 layout: post
-title: What is Jekyll
-author: jane
-categories:
-- Jekyll
-- tutorial
+title: Credit, Credit Risk and Credit Risk Measurement
+author: Geoffrey John Kimetto
+categories: []
 image: assets/images/11.jpg
 
 ---
